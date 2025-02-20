@@ -1,0 +1,101 @@
+div.outside {
+    width: 270px;
+    height: 410px;
+    padding: 10px;
+    border: 10px solid #a3a5a7;
+    border-radius: 20px;
+  }
+  table.nameheader {
+    width: 100%;
+  }
+  td.basic {
+    font-weight: bold;
+    font-size: 11px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%
+  }
+  td.nameofanimal {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0px;
+  }
+  td.typesign {
+    font-size: 20px;
+    text-align: center;
+    width: 5%;
+  }
+  img.picture {
+    height: 150px;
+    width: 250px;
+    padding: 0px;
+    margin: 0px;
+    border: 5px solid #a3a5a7;
+  }
+  p.description {
+    padding: 2px 0px 0px 0px;
+    margin: 0px 0px 5px 0px;
+    background: solid #a3a5a7;
+    font-size: 11px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+  }
+  table.stats {
+    width: 100%;
+    text-align:center;
+  }
+  
+  td.energy {
+    width: 18%;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  span.labeltext {
+    font-size: 11px;
+  }
+  table.costs {
+    font-size: 11px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  tr.headers {
+    font-weight: bold;
+  }
+  
+  tr.icons {
+    font-size: 20px;
+  }
+  
+  p.italicize {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 11px;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  /* Background of card */
+  div.lightning {
+    background: linear-gradient(to bottom right, #ffffa4,#fff870,#fff200,#fff870,#ffffa4,#fff870);
+  }
+  
+  div {
+    font-family: sans-serif;
+  }
+  p.bottomtext {
+    font-size: 7px;
+    text-align:center;
+  }
+  
